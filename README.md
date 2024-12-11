@@ -9,6 +9,3 @@ This Dart code demonstrates the use of functions, variable assignments, and conc
 
 <img width="960" alt="chapter3_1" src="https://github.com/user-attachments/assets/5e440f5c-7628-4cd9-bed2-b4a0819b3952">
 
-This Dart program demonstrates basic list operations such as adding and removing elements. It begins by creating a list named names containing the initial elements 'jah', 'pau', 'josh', and 'stell'. The program then uses the add() method to append a new element, 'felip', to the list. After that, it removes the element 'stell' using the remove() method. Finally, the program prints the updated list to the console, which now contains ['jah', 'pau', 'josh', 'felip']. This simple code snippet showcases how to manipulate lists in Dart, making it easy to dynamically update their contents.
-
-<img width="957" alt="chapter3_2" src="https://github.com/user-attachments/assets/151da9b3-16f9-4c67-a2a7-3445b283b236">
